@@ -1,7 +1,6 @@
 a = 0
 b = 1
 c = 0
-
 serie = [a,b]
 num = int(input("Ingrese numero"))
 
